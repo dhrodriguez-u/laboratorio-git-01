@@ -1,2 +1,3 @@
 # laboratorio-git-01
-lab
+Hola, mi nombre es Daniel.
+Soy estudiante de Ingeniería en Sistemas.
